@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>QUnit Example</title>
+  <link rel="stylesheet" href="https://code.jquery.com/qunit/qunit-2.9.2.css">
+</head>
+<body>
+  <div id="qunit"></div>
+  <div id="qunit-fixture"></div>
+  <script src="https://code.jquery.com/qunit/qunit-2.9.2.js"></script>
+  <script src="lib.js"></script>
+  
+  <script>
+      QUnit.test("Snu spesifisert tekst - Test", function (assert){
+          let actual = reverseText('Test');
+          let expected = 'tseT';
+          assert.equal(actual, expected);
+        });
+
+        QUnit.test("Snu spesifisert tekst - blank", function (assert){
+          let actual = reverseText('');
+          let expected = '';
+          assert.equal(actual, expected);
+        });
+
+        QUnit.test("Snu spesifisert tekst - Null", function (assert){
+          let actual = reverseText(null);
+          let expected = null;
+          assert.equal(actual, expected);
+        });
+
+        QUnit.test("Snu spesifisert tekst - undefined", function (assert){
+          let actual = reverseText(undefined);
+          let expected = undefined;
+          assert.equal(actual, expected);
+        });
+    </script>
+
+
+</body>
+</html>
