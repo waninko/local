@@ -1,0 +1,11 @@
+W:\Programming\gitHUB\C#\.net_console\bin\Debug\netcoreapp3.1\.net_console.exe
+W:\Programming\gitHUB\C#\.net_console\bin\Debug\netcoreapp3.1\.net_console.deps.json
+W:\Programming\gitHUB\C#\.net_console\bin\Debug\netcoreapp3.1\.net_console.runtimeconfig.json
+W:\Programming\gitHUB\C#\.net_console\bin\Debug\netcoreapp3.1\.net_console.runtimeconfig.dev.json
+W:\Programming\gitHUB\C#\.net_console\bin\Debug\netcoreapp3.1\.net_console.dll
+W:\Programming\gitHUB\C#\.net_console\bin\Debug\netcoreapp3.1\.net_console.pdb
+W:\Programming\gitHUB\C#\.net_console\obj\Debug\netcoreapp3.1\.net_console.csprojAssemblyReference.cache
+W:\Programming\gitHUB\C#\.net_console\obj\Debug\netcoreapp3.1\.net_console.AssemblyInfoInputs.cache
+W:\Programming\gitHUB\C#\.net_console\obj\Debug\netcoreapp3.1\.net_console.AssemblyInfo.cs
+W:\Programming\gitHUB\C#\.net_console\obj\Debug\netcoreapp3.1\.net_console.dll
+W:\Programming\gitHUB\C#\.net_console\obj\Debug\netcoreapp3.1\.net_console.pdb

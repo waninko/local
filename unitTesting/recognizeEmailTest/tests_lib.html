@@ -24,6 +24,11 @@
             assert.equal(actual, expected);
         });
 
+        QUnit.test("Contains Spaces ", function (assert) {
+            const actual = isThisAnEmailAddress('tes t.heftig@test.com');
+            const expected = false;
+            assert.equal(actual, expected);
+        });
         
         QUnit.test("Contains dot before & after '@' ", function (assert) {
             const actual = isThisAnEmailAddress('test.heftig@test.com');

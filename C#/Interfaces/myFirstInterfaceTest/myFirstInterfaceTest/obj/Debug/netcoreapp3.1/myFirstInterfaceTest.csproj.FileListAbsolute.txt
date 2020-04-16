@@ -1,0 +1,11 @@
+W:\Programming\gitHUB\C#\Interfaces\myFirstInterfaceTest\myFirstInterfaceTest\bin\Debug\netcoreapp3.1\myFirstInterfaceTest.exe
+W:\Programming\gitHUB\C#\Interfaces\myFirstInterfaceTest\myFirstInterfaceTest\bin\Debug\netcoreapp3.1\myFirstInterfaceTest.deps.json
+W:\Programming\gitHUB\C#\Interfaces\myFirstInterfaceTest\myFirstInterfaceTest\bin\Debug\netcoreapp3.1\myFirstInterfaceTest.runtimeconfig.json
+W:\Programming\gitHUB\C#\Interfaces\myFirstInterfaceTest\myFirstInterfaceTest\bin\Debug\netcoreapp3.1\myFirstInterfaceTest.runtimeconfig.dev.json
+W:\Programming\gitHUB\C#\Interfaces\myFirstInterfaceTest\myFirstInterfaceTest\bin\Debug\netcoreapp3.1\myFirstInterfaceTest.dll
+W:\Programming\gitHUB\C#\Interfaces\myFirstInterfaceTest\myFirstInterfaceTest\bin\Debug\netcoreapp3.1\myFirstInterfaceTest.pdb
+W:\Programming\gitHUB\C#\Interfaces\myFirstInterfaceTest\myFirstInterfaceTest\obj\Debug\netcoreapp3.1\myFirstInterfaceTest.csprojAssemblyReference.cache
+W:\Programming\gitHUB\C#\Interfaces\myFirstInterfaceTest\myFirstInterfaceTest\obj\Debug\netcoreapp3.1\myFirstInterfaceTest.AssemblyInfoInputs.cache
+W:\Programming\gitHUB\C#\Interfaces\myFirstInterfaceTest\myFirstInterfaceTest\obj\Debug\netcoreapp3.1\myFirstInterfaceTest.AssemblyInfo.cs
+W:\Programming\gitHUB\C#\Interfaces\myFirstInterfaceTest\myFirstInterfaceTest\obj\Debug\netcoreapp3.1\myFirstInterfaceTest.dll
+W:\Programming\gitHUB\C#\Interfaces\myFirstInterfaceTest\myFirstInterfaceTest\obj\Debug\netcoreapp3.1\myFirstInterfaceTest.pdb
